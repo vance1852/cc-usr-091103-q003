@@ -1,0 +1,10 @@
+{
+  "reportId": "inn-204-20260902",
+  "waterPointId": "spring-north-204",
+  "observerType": "lodging-host",
+  "observedAt": "2026-09-02T06:40:00+08:00",
+  "receivedAt": "2026-09-02T07:05:00+08:00",
+  "flowLevel": "trickle",
+  "evidenceDigest": "sha256:7d532d6d26d447c7",
+  "note": "容器接满约需十二分钟"
+}
